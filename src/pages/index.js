@@ -14,7 +14,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Dashboard | Material Kit
+        BBL Portal
       </title>
     </Head>
     <Box
